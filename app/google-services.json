@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "420301451034",
+    "firebase_url": "https://poetry-app-bae7d-default-rtdb.firebaseio.com",
+    "project_id": "poetry-app-bae7d",
+    "storage_bucket": "poetry-app-bae7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420301451034:android:19720708d79256d50346a3",
+        "android_client_info": {
+          "package_name": "com.mudasir.peotryadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420301451034-hfmr9jr8h6b35pe8rc55pgvg7m8lci0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mudasir.peotryadmin",
+            "certificate_hash": "8d00b135dcf02de3f63489fcb5b5b5c8d9d6f58d"
+          }
+        },
+        {
+          "client_id": "420301451034-ptvlcdr9ad280appkk8pneujprbjgj3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANnBGKkK4jHQ6cYQU9zgZ5KEV93kITE4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420301451034-ptvlcdr9ad280appkk8pneujprbjgj3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420301451034:android:6dabb3c906b380d00346a3",
+        "android_client_info": {
+          "package_name": "com.mudasir.poetry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420301451034-qk7l58a15cmt6ks3rogprmn61jq5pbne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mudasir.poetry",
+            "certificate_hash": "8d00b135dcf02de3f63489fcb5b5b5c8d9d6f58d"
+          }
+        },
+        {
+          "client_id": "420301451034-ptvlcdr9ad280appkk8pneujprbjgj3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANnBGKkK4jHQ6cYQU9zgZ5KEV93kITE4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420301451034-ptvlcdr9ad280appkk8pneujprbjgj3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
